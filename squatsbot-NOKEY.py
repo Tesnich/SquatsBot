@@ -195,3 +195,5 @@ class CustomClient(discord.Client):
 
 client = CustomClient()
 client.run(TOKEN)
+
+# one awesome comment, thank me later
